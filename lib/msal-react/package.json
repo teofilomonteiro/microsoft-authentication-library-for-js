@@ -1,6 +1,6 @@
 {
   "name": "@azure/msal-react",
-  "version": "1.2.0",
+  "version": "1.4.4",
   "author": {
     "name": "Microsoft",
     "email": "nugetaad@microsoft.com",
@@ -40,21 +40,20 @@
     "prepack": "npm run build:all"
   },
   "peerDependencies": {
-    "@azure/msal-browser": "^2.21.0",
-    "react": "^16.8.0 || ^17"
+    "@azure/msal-browser": "^2.28.0",
+    "react": "^16.8.0 || ^17 || ^18"
   },
   "devDependencies": {
-    "@azure/msal-browser": "^2.21.0",
-    "@rollup/plugin-typescript": "^8.3.0",
+    "@azure/msal-browser": "^2.28.0",
     "@testing-library/jest-dom": "^5.11.5",
     "@testing-library/react": "^11.2.3",
-    "@types/jest": "^27.4.0",
-    "@types/react": "^16.9.43",
-    "@types/react-dom": "^16.9.8",
-    "jest": "^27.4.7",
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1",
-    "rollup": "^2.63.0",
+    "@types/jest": "^27.0.0",
+    "@types/react": "^17.0.2",
+    "@types/react-dom": "^17.0.2",
+    "jest": "^27.0.4",
+    "jest-environment-jsdom-fifteen": "^1.0.2",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
     "ts-jest": "^27.0.2",
     "tslib": "^2.3.1",
     "typescript": "^3.9.7"
