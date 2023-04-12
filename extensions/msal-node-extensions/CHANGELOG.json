@@ -2,6 +2,41 @@
   "name": "@azure/msal-node-extensions",
   "entries": [
     {
+      "date": "Wed, 12 Apr 2023 22:25:19 GMT",
+      "tag": "@azure/msal-node-extensions_v1.0.0-alpha.33",
+      "version": "1.0.0-alpha.33",
+      "comments": {
+        "none": [
+          {
+            "author": "hemoral@microsoft.com",
+            "package": "@azure/msal-node-extensions",
+            "commit": "c0c956a1d31ca5fd4218e04616911a96eac37ba6",
+            "comment": "Msal v3 final rebase #5859"
+          },
+          {
+            "author": "kshabelko@microsoft.com",
+            "package": "@azure/msal-node-extensions",
+            "commit": "c0c956a1d31ca5fd4218e04616911a96eac37ba6",
+            "comment": "Rebase dev onto v3 #5843"
+          }
+        ],
+        "prerelease": [
+          {
+            "author": "kshabelko@microsoft.com",
+            "package": "@azure/msal-node-extensions",
+            "commit": "c0c956a1d31ca5fd4218e04616911a96eac37ba6",
+            "comment": "Bump typescript version to 4.9.5 #5750"
+          },
+          {
+            "author": "beachball",
+            "package": "@azure/msal-node-extensions",
+            "comment": "Bump @azure/msal-common to v13.0.0",
+            "commit": "fa981e39cfd69b9b802adef42d2dc5c31d2e3214"
+          }
+        ]
+      }
+    },
+    {
       "date": "Mon, 03 Apr 2023 21:29:32 GMT",
       "tag": "@azure/msal-node-extensions_v1.0.0-alpha.32",
       "version": "1.0.0-alpha.32",

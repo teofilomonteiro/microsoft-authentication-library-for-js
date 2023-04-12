@@ -1,8 +1,17 @@
 # Change Log - @azure/msal-node-extensions
 
-This log was last generated on Mon, 03 Apr 2023 21:29:32 GMT and should not be manually modified.
+This log was last generated on Wed, 12 Apr 2023 22:25:19 GMT and should not be manually modified.
 
 <!-- Start content -->
+
+## 1.0.0-alpha.33
+
+Wed, 12 Apr 2023 22:25:19 GMT
+
+### Changes
+
+- Bump typescript version to 4.9.5 #5750 (kshabelko@microsoft.com)
+- Bump @azure/msal-common to v13.0.0
 
 ## 1.0.0-alpha.32
 

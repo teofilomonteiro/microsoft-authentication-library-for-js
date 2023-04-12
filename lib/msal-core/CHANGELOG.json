@@ -2,6 +2,37 @@
   "name": "msal",
   "entries": [
     {
+      "date": "Wed, 12 Apr 2023 22:25:19 GMT",
+      "tag": "msal_v1.5.0",
+      "version": "1.5.0",
+      "comments": {
+        "minor": [
+          {
+            "author": "kshabelko@microsoft.com",
+            "package": "msal",
+            "commit": "c0c956a1d31ca5fd4218e04616911a96eac37ba6",
+            "comment": "Bump typescript to 4.9.5 and build target to es2020 #5750"
+          }
+        ],
+        "none": [
+          {
+            "author": "hemoral@microsoft.com",
+            "package": "msal",
+            "commit": "c0c956a1d31ca5fd4218e04616911a96eac37ba6",
+            "comment": "Msal v3 final rebase #5859"
+          }
+        ],
+        "patch": [
+          {
+            "author": "thomas.norling@microsoft.com",
+            "package": "msal",
+            "commit": "629883fbfe597b56260483e4567bacd9ae9ba81d",
+            "comment": "Rename BlacklistedEQParams to DisallowedEQParams"
+          }
+        ]
+      }
+    },
+    {
       "date": "Mon, 09 Jan 2023 22:44:58 GMT",
       "tag": "msal_v1.4.17",
       "version": "1.4.17",

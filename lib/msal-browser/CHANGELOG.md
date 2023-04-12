@@ -1,8 +1,22 @@
 # Change Log - @azure/msal-browser
 
-This log was last generated on Mon, 03 Apr 2023 21:29:32 GMT and should not be manually modified.
+This log was last generated on Wed, 12 Apr 2023 22:25:20 GMT and should not be manually modified.
 
 <!-- Start content -->
+
+## 3.0.0
+
+Wed, 12 Apr 2023 22:25:20 GMT
+
+### Major changes
+
+- Fix telemetry typos #5868 (kshabelko@microsoft.com)
+- `allowNativeBroker` configuration defaults to `true` #5616 (hemoral@microsoft.com)
+- Bump @azure/msal-common to v13.0.0
+
+### Patches
+
+- Fix missing idToken in response after refresh #5871 (thomas.norling@microsoft.com)
 
 ## 2.35.0
 

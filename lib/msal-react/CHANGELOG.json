@@ -2,6 +2,41 @@
   "name": "@azure/msal-react",
   "entries": [
     {
+      "date": "Wed, 12 Apr 2023 22:25:19 GMT",
+      "tag": "@azure/msal-react_v2.0.0",
+      "version": "2.0.0",
+      "comments": {
+        "none": [
+          {
+            "author": "hemoral@microsoft.com",
+            "package": "@azure/msal-react",
+            "commit": "c0c956a1d31ca5fd4218e04616911a96eac37ba6",
+            "comment": "Msal v3 final rebase #5859"
+          },
+          {
+            "author": "hemoral@microsoft.com",
+            "package": "@azure/msal-react",
+            "commit": "c0c956a1d31ca5fd4218e04616911a96eac37ba6",
+            "comment": "Allow major change types for v3 updates #5746"
+          }
+        ],
+        "major": [
+          {
+            "author": "kshabelko@microsoft.com",
+            "package": "@azure/msal-react",
+            "commit": "c0c956a1d31ca5fd4218e04616911a96eac37ba6",
+            "comment": "Rebase dev onto v3 #5843"
+          },
+          {
+            "author": "beachball",
+            "package": "@azure/msal-react",
+            "comment": "Bump @azure/msal-browser to v3.0.0",
+            "commit": "fa981e39cfd69b9b802adef42d2dc5c31d2e3214"
+          }
+        ]
+      }
+    },
+    {
       "date": "Mon, 03 Apr 2023 21:29:32 GMT",
       "tag": "@azure/msal-react_v1.5.5",
       "version": "1.5.5",

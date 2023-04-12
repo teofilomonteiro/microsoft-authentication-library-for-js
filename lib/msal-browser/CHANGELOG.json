@@ -2,6 +2,55 @@
   "name": "@azure/msal-browser",
   "entries": [
     {
+      "date": "Wed, 12 Apr 2023 22:25:20 GMT",
+      "tag": "@azure/msal-browser_v3.0.0",
+      "version": "3.0.0",
+      "comments": {
+        "patch": [
+          {
+            "author": "thomas.norling@microsoft.com",
+            "package": "@azure/msal-browser",
+            "commit": "1a04e92c8416da2f654446a729fccc4addf9d716",
+            "comment": "Fix missing idToken in response after refresh #5871"
+          }
+        ],
+        "major": [
+          {
+            "author": "kshabelko@microsoft.com",
+            "package": "@azure/msal-browser",
+            "commit": "9f5c1288cbe52fa2176f41269032c7bb7920de14",
+            "comment": "Fix telemetry typos #5868"
+          },
+          {
+            "author": "hemoral@microsoft.com",
+            "package": "@azure/msal-browser",
+            "commit": "c0c956a1d31ca5fd4218e04616911a96eac37ba6",
+            "comment": "`allowNativeBroker` configuration defaults to `true` #5616"
+          },
+          {
+            "author": "beachball",
+            "package": "@azure/msal-browser",
+            "comment": "Bump @azure/msal-common to v13.0.0",
+            "commit": "fa981e39cfd69b9b802adef42d2dc5c31d2e3214"
+          }
+        ],
+        "none": [
+          {
+            "author": "hemoral@microsoft.com",
+            "package": "@azure/msal-browser",
+            "commit": "c0c956a1d31ca5fd4218e04616911a96eac37ba6",
+            "comment": "Msal v3 final rebase #5859"
+          },
+          {
+            "author": "hemoral@microsoft.com",
+            "package": "@azure/msal-browser",
+            "commit": "c0c956a1d31ca5fd4218e04616911a96eac37ba6",
+            "comment": "Remove dropped version checks from v3 workflows #5729"
+          }
+        ]
+      }
+    },
+    {
       "date": "Mon, 03 Apr 2023 21:29:32 GMT",
       "tag": "@azure/msal-browser_v2.35.0",
       "version": "2.35.0",

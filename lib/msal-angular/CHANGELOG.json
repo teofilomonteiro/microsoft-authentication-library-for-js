@@ -2,6 +2,55 @@
   "name": "@azure/msal-angular",
   "entries": [
     {
+      "date": "Wed, 12 Apr 2023 22:25:19 GMT",
+      "tag": "@azure/msal-angular_v3.0.0",
+      "version": "3.0.0",
+      "comments": {
+        "major": [
+          {
+            "author": "kshabelko@microsoft.com",
+            "package": "@azure/msal-angular",
+            "commit": "c0c956a1d31ca5fd4218e04616911a96eac37ba6",
+            "comment": "Rebase dev onto v3 #5843"
+          },
+          {
+            "author": "joarroyo@microsoft.com",
+            "package": "@azure/msal-angular",
+            "commit": "c0c956a1d31ca5fd4218e04616911a96eac37ba6",
+            "comment": "Update msal-angular to Angular 15"
+          },
+          {
+            "author": "beachball",
+            "package": "@azure/msal-angular",
+            "comment": "Bump @azure/msal-browser to v3.0.0",
+            "commit": "fa981e39cfd69b9b802adef42d2dc5c31d2e3214"
+          }
+        ],
+        "patch": [
+          {
+            "author": "kshabelko@microsoft.com",
+            "package": "@azure/msal-angular",
+            "commit": "c0c956a1d31ca5fd4218e04616911a96eac37ba6",
+            "comment": "Fix package-lock.json #5788"
+          }
+        ],
+        "none": [
+          {
+            "author": "hemoral@microsoft.com",
+            "package": "@azure/msal-angular",
+            "commit": "c0c956a1d31ca5fd4218e04616911a96eac37ba6",
+            "comment": "Msal v3 final rebase #5859"
+          },
+          {
+            "author": "hemoral@microsoft.com",
+            "package": "@azure/msal-angular",
+            "commit": "c0c956a1d31ca5fd4218e04616911a96eac37ba6",
+            "comment": "Allow major change types for v3 updates #5746"
+          }
+        ]
+      }
+    },
+    {
       "date": "Mon, 03 Apr 2023 21:29:32 GMT",
       "tag": "@azure/msal-angular_v2.5.5",
       "version": "2.5.5",
